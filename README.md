@@ -1,4 +1,5 @@
-# VEuPathDB-ontology.org
+# VEuPathDB-ontology.github.io
+
 Website for the VEuPathDB ontology
 
 ## License
